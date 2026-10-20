@@ -150,6 +150,10 @@ activemq-data/
 *.sage.py
 
 # Environments
+# Project data
+data/processed/*.csv
+data/interim/
+*.parquet
 .env
 .envrc
 .venv
