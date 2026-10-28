@@ -1,4 +1,4 @@
-# Analisis Harga & Rating Properti Airbnb (Bandung Raya & Puncak/Bogor)
+# Analisis Harga & Rating Properti Airbnb (Bandung Raya & Bogor)
 
 ## Latar Belakang Proyek
 Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi harga sewa penginapan (Airbnb) di wilayah Bandung Raya dan Puncak/Bogor. Secara spesifik, proyek ini menjawab dua pertanyaan utama:
