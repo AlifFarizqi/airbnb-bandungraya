@@ -45,3 +45,6 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi harga se
 ## Limitasi
 1. Data tidak memiliki informasi fasilitas yang lengkap, sehingga variabel fasilitas (kolam renang, dll) tidak dimasukkan ke dalam model.
 2. Analisis ini bersifat observasional (korelasional), bukan eksperimental (kausal).
+
+## Preview Dashboard
+![Dashboard Preview](dashboard/screenshot/dashboard1.png)
