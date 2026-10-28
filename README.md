@@ -37,3 +37,9 @@ Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi harga se
    python -m venv .venv
    source .venv/bin/activate  # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
+3. Jalankan streamlit
+   streamlit run dashboard/app.py
+
+## Limitasi
+1. Data tidak memiliki informasi fasilitas yang lengkap, sehingga variabel fasilitas (kolam renang, dll) tidak dimasukkan ke dalam model.
+2. Analisis ini bersifat observasional (korelasional), bukan eksperimental (kausal).
